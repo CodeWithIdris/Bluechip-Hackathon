@@ -1,0 +1,1 @@
+This hackathon provides a unique opportunity to dive into financial analytics, develop predictive models, and uncover patterns that can help transform the lending landscape. By participating, you will not only contribute to innovation in financial services but also sharpen your skills in solving real-world challenges with cutting-edge AI techniques.
